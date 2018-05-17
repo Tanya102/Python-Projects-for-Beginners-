@@ -1,2 +1,3 @@
 # Python-Projects-for-Beginners-
-These projects are really very simple and easy to code.
+
+The projects included in this repository are straightforward and easy to code. Beginners can start of with these projects to develop their skills.
